@@ -1,5 +1,5 @@
 # GKD
-WACV 2024 Paper
+WACV 2024 Paper: Gradient-Guided Knowledge Distillation for Object Detectors
 ----------------------
 
-Code will release soon!!
+The code will be released soon!!
